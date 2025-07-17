@@ -2,7 +2,7 @@
 
 **DemoX Reimagined** is a next-generation showcase site designed to help AI startups, agencies, or innovators present futuristic, ethical, memory-powered digital experiences.
 
-It was originally themed around a fictional sacred AI brand (RAHMX) to demonstrate layout, interaction flow, and modular memory logic — but this template is **not owned by nor affiliated with RAHMX Ltd**, and **is offered as a rebrandable, customizable product**.
+It was originally themed around a sacred AI brand (RAHMX) to demonstrate layout, interaction flow, and modular memory logic — but this template is **not owned by nor affiliated with RAHMX Ltd**, and **is offered as a rebrandable, customizable product**.
 
 ---
 
@@ -101,7 +101,7 @@ firebase deploy   # Deploy to Firebase
 
 ## 📘 Theme Inspiration
 
-This project was originally themed around **RAHMX**, a fictional sacred AI brand focused on memory, ethics, and spiritual intelligence. To explore a real-world site built on similar values, visit:
+This project was originally themed around **RAHMX**, a sacred AI brand focused on memory, ethics, and spiritual intelligence. To explore a real-world site built on similar values, visit:
 
 🔗 [www.rahmx.co.uk](https://www.rahmx.co.uk)
 
