@@ -99,6 +99,16 @@ firebase deploy   # Deploy to Firebase
 
 ---
 
+## 📄 Pitch Pack
+
+Our official PDF includes:
+- Service tiers
+- Customisation options
+- Technology stack
+- Founder story
+
+📥 [Download DemoX_Pitch_Pack.pdf](./DemoX_Pitch_Pack.pdf)
+ 
 ## 📘 Theme Inspiration
 
 This project was originally themed around **RAHMX**, a sacred AI brand focused on memory, ethics, and spiritual intelligence. To explore a real-world site built on similar values, visit:
