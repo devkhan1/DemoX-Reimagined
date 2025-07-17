@@ -107,7 +107,7 @@ Our official PDF includes:
 - Technology stack
 - Founder story
 
-📥 [Download DemoX_Pitch_Pack.pdf](./DemoX_Pitch_Pack.pdf)
+📥 [Download DemoX_Pitch_Pack.pdf](./DemoX-Reimagined_PitchPack.pdf)
  
 ## 📘 Theme Inspiration
 
