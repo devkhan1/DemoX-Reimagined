@@ -128,6 +128,30 @@ Explore other AI-powered demo templates:
 
 ---
 
+## 📸 Visual Previews
+
+Below are selected screenshots from the live demo. All assets are stored in the `/demo-assets/` folder.
+
+### 🔹 About Us
+![About Us](./demo-assets/about-us.png)
+
+### 🔹 Homepage
+![Homepage](./demo-assets/homepage.png)
+
+### 🔹 Newsletter Popup
+![Newsletter](./demo-assets/newsletter.png)
+
+### 🔹 Join Email Section
+![Join Email](./demo-assets/join-email.png)
+
+### 🔹 Services – Layout 1
+![Services 1](./demo-assets/services-1.png)
+
+### 🔹 Services – Layout 2
+![Services 2](./demo-assets/services-2.png)
+
+
+
 ## 📬 Contact
 
 For custom development, licensing, or collaboration:  
