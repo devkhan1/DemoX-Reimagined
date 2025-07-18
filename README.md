@@ -126,7 +126,7 @@ All rights are reserved by the author. Unauthorized resale or use without licens
 
 ## 🛠 Related Demo Projects
 
-- Founders Portfolio:
+Founders Portfolio:
 **Live Portfolio:** [https://khan.rahmx.co.uk](https://khan.rahmx.co.uk)  
 
 Explore other AI-powered demo templates:
