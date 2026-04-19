@@ -89,11 +89,6 @@ firebase deploy   # Deploy to Firebase
 
 ## 💼 Pricing & White-Label Options
 
-| Tier     | Description                                         | Price (GBP) |
-|----------|-----------------------------------------------------|-------------|
-| Starter  | Clone version with working contact form             | £2,500      |
-| Pro      | Custom branding + Firebase deployment               | £8,000      |
-| Agency   | White-label license + memory system + AI dashboard  | £25,000     |
 
 📩 **To request a licensed or customized version**, email: [info@rahmx.co.uk](mailto:info@rahmx.co.uk)
 
@@ -105,10 +100,8 @@ Our official PDF includes:
 - Service tiers
 - Customisation options
 - Technology stack
-- Founder story
-
-📥 [Download DemoX_Pitch_Pack.pdf](./DemoX-Reimagined_PitchPack.pdf)
- 
+- Founders
+- 
 ## 📘 Theme Inspiration
 
 This project was originally themed around **RAHMX**, a sacred AI brand focused on memory, ethics, and spiritual intelligence. To explore a real-world site built on similar values, visit:
